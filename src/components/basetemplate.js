@@ -7,13 +7,13 @@ const BaseTemplate = () => {
     return (
         <div className="base-template-container">
             <header className="header">
-                <h1>Contract Generator</h1>
+                <h1>Contract Form</h1>
             </header>
             <main className="main-content">
                 <ContractForm />
             </main>
             <footer className="footer">
-                <p>&copy; 2024 My Company</p>
+                <p>&copy; KrishiPact</p>
             </footer>
         </div>
     );
